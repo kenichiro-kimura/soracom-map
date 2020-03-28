@@ -9,7 +9,7 @@ Vue.config.productionTip = false
 
 Vue.use(VueGoogleMaps, {
     load: {
-        key: 'AIzaSyArRtFV6MJu0fg6AgFYzQ72ztBoaa9yGFE',//process.env.VUE_APP_GOOGLE_MAP_API,
+        key: '',//process.env.VUE_APP_GOOGLE_MAP_API,
         libraries: 'places',
         region: 'JP',
         language: 'ja'
