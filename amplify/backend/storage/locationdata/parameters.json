@@ -1,0 +1,5 @@
+{
+    "tableName": "locationdata",
+    "partitionKeyName": "userName",
+    "partitionKeyType": "S"
+}
