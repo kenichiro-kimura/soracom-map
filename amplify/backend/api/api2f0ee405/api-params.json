@@ -1,0 +1,34 @@
+{
+    "paths": [
+        {
+            "name": "/items",
+            "lambdaFunction": "soracommap",
+            "privacy": {
+                "open": true
+            }
+        }
+    ],
+    "resourceName": "api2f0ee405",
+    "apiName": "api2f0ee405",
+    "functionArns": [
+        {
+            "lambdaFunction": "soracommap"
+        }
+    ],
+    "privacy": {
+        "auth": 0,
+        "unauth": 0,
+        "authRoleName": "soracom-map-test-20200306164143-authRole",
+        "unAuthRoleName": "soracom-map-test-20200306164143-unauthRole"
+    },
+    "dependsOn": [
+        {
+            "category": "function",
+            "resourceName": "soracommap",
+            "attributes": [
+                "Name",
+                "Arn"
+            ]
+        }
+    ]
+}

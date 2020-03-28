@@ -1,0 +1,14 @@
+{
+    "test": {
+        "awscloudformation": {
+            "AuthRoleName": "soracom-map-test-20200306164143-authRole",
+            "UnauthRoleArn": "arn:aws:iam::666479482418:role/soracom-map-test-20200306164143-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::666479482418:role/soracom-map-test-20200306164143-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "soracom-map-test-20200306164143-deployment",
+            "UnauthRoleName": "soracom-map-test-20200306164143-unauthRole",
+            "StackName": "soracom-map-test-20200306164143",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:666479482418:stack/soracom-map-test-20200306164143/ec531500-5f7d-11ea-97d1-06680f8688ee"
+        }
+    }
+}
