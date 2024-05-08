@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@aws-amplify/api": "^6.0.32",
-    "@aws-amplify/pubsub": "^2.1.7",
+    "@aws-amplify/pubsub": "^6.1.4",
     "aws-amplify": "^6.3.0",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
