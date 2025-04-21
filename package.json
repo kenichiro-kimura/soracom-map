@@ -10,7 +10,7 @@
   "dependencies": {
     "@aws-amplify/api": "^6.0.32",
     "@aws-amplify/pubsub": "^6.1.4",
-    "aws-amplify": "^6.3.0",
+    "aws-amplify": "^6.5.3",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
     "vue2-google-maps": "^0.10.7"
